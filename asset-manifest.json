@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://navpatel1.github.io/csb-kkter0/static/css/main.fff0ea8b.chunk.css",
+    "main.js": "https://navpatel1.github.io/csb-kkter0/static/js/main.c9a9cbdb.chunk.js",
+    "main.js.map": "https://navpatel1.github.io/csb-kkter0/static/js/main.c9a9cbdb.chunk.js.map",
+    "runtime-main.js": "https://navpatel1.github.io/csb-kkter0/static/js/runtime-main.0d226645.js",
+    "runtime-main.js.map": "https://navpatel1.github.io/csb-kkter0/static/js/runtime-main.0d226645.js.map",
+    "static/js/2.33e5cf8b.chunk.js": "https://navpatel1.github.io/csb-kkter0/static/js/2.33e5cf8b.chunk.js",
+    "static/js/2.33e5cf8b.chunk.js.map": "https://navpatel1.github.io/csb-kkter0/static/js/2.33e5cf8b.chunk.js.map",
+    "index.html": "https://navpatel1.github.io/csb-kkter0/index.html",
+    "static/css/main.fff0ea8b.chunk.css.map": "https://navpatel1.github.io/csb-kkter0/static/css/main.fff0ea8b.chunk.css.map",
+    "static/js/2.33e5cf8b.chunk.js.LICENSE.txt": "https://navpatel1.github.io/csb-kkter0/static/js/2.33e5cf8b.chunk.js.LICENSE.txt",
+    "static/media/almost.30c97ac7.mp4": "https://navpatel1.github.io/csb-kkter0/static/media/almost.30c97ac7.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d226645.js",
+    "static/js/2.33e5cf8b.chunk.js",
+    "static/css/main.fff0ea8b.chunk.css",
+    "static/js/main.c9a9cbdb.chunk.js"
+  ]
+}
